@@ -1,19 +1,3 @@
-A new Flutter project for user authentication.
-
-## Estructura del Proyecto
-
-```plaintext
-/lib
-  ├── main.dart
-  ├── login_screen.dart
-  ├── home_screen.dart
-  └── services
-      └── user_service.dart
-
-
---------------------------
--------pubspec.yaml-------
---------------------------
 name: login_with_api
 description: "A new Flutter project."
 publish_to: 'none'
